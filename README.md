@@ -37,7 +37,7 @@ This project showcases a dramatic interior atmosphere with a focus on brutalist 
 
 ## 📜 License / Lisans
 
-* **3D Models & Scene Design:** Licensed under the **MIT License**.
+* **3D Models & Scene Design:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license. To view a copy of the base license, visit: ((http://creativecommons.org/licenses/by-nc/4.0/).
 * **Volumetric Lighting Code:** Subject to the original license of [CristianQiu](https://github.com/CristianQiu/Unity-URP-Volumetric-Light).
 
 Created by **Soner Çakır**
