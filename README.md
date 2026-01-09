@@ -29,7 +29,7 @@ This project showcases a dramatic interior atmosphere with a focus on brutalist 
 ## 🛠️ Setup / Kurulum
 
 1. Clone the repository / Repoyu klonlayın:
-   `git clone https://github.com/sonercakir7/Your-Repo-Name.git`
+   `git clone https://github.com/sonercakir7/Your-Repo-Name.git](https://github.com/sonercakir7/URP_Dark_Light_Stage_ExampleSampleScene.git`
 2. Open the project with **Unity 6.2.15f1**.
 3. Navigate to `Assets/Scenes/` and open `Level1.unity`.
 
